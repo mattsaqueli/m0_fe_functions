@@ -43,4 +43,4 @@ function average(num1, num2) {
   var average = sum / 2;
   console.log(`the average is: ${average}.`);
 }
- average();
+ average(2, 4);
